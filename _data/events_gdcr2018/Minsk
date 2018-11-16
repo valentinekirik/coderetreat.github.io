@@ -1,0 +1,17 @@
+{
+  "title": "Global Day of Coderetreat, Minsk",
+  "url": "https://events.epam.com/events/coderetreat",
+  "moderators": [
+    "@sergyenko"
+  ],
+  "location": {
+    "city": "Minsk",
+    "country": "Belarus",
+    "coordinates": {
+      "latitude": 53.9003767,
+      "longitude": 27.5417016
+    },
+    "utcOffset": 3,
+    "timezone": "Europe/Minsk"
+  }
+}
